@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/site AC-DENTAL.html"
+  to = "/"
+  status = 301
